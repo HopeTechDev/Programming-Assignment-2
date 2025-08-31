@@ -65,7 +65,9 @@ print("\nNormalized Array:\n", X_normalized)
 
 ```
 
-- Generates a 5×5 array of random floating-point numbers between 0 and 1 using np.random.rand(5, 5).
+### More Detailed Code Explanation:
+
+- Generate a 5×5 array of random floating-point numbers between 0 and 1 using np.random.rand(5, 5).
 
 - X.mean() → computes the mean of all elements in the array.
 
@@ -102,6 +104,8 @@ print("Original Array:\n", X)
 print("\nElements Divisible by 3:\n", divisible)
 
 ```
+
+### More Detailed Code Explanation:
 
 - Creates a 10×10 array of squared numbers from 1² to 100² using (np.arange(1, 101).reshape(10, 10)) ** 2.
 
