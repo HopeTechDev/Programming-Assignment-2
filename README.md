@@ -142,6 +142,6 @@ print("\nElements Divisible by 3:\n", divisible)
   - Clean markdown layout for easy readability
   - Fixed the overall format of my Readme to make it easy and pleasant to read
  
----
+ ---
 
 
