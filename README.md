@@ -71,7 +71,7 @@ print("\nNormalized Array:\n", X_normalized)
 
 ##### - X.std() → computes the standard deviation of the array.
 
-#####  *Normalization formula:*
+######  *Normalization formula:*
 
   <img width="80" height="49" alt="image" src="https://github.com/user-attachments/assets/36b95403-e79f-47cc-8921-859d9a73a847" />
 
