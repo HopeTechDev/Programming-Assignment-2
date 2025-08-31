@@ -65,22 +65,21 @@ print("\nNormalized Array:\n", X_normalized)
 
 ```
 
-- Generates a 5×5 array of random floating-point numbers between 0 and 1 using np.random.rand(5, 5).
+##### - Generates a 5×5 array of random floating-point numbers between 0 and 1 using np.random.rand(5, 5).
 
-- X.mean() → computes the mean of all elements in the array.
+##### - X.mean() → computes the mean of all elements in the array.
 
-- Normalization formula:
+##### - X.std() → computes the standard deviation of the array.
+
+#####  *Normalization formula:*
 
   <img width="80" height="49" alt="image" src="https://github.com/user-attachments/assets/36b95403-e79f-47cc-8921-859d9a73a847" />
 
+##### - (X - mean) / std_dev → normalizes each element by subtracting the mean and dividing by the standard deviation.
 
-- X.std() → computes the standard deviation of the array.
+##### - np.save('X_normalized.npy', X_normalized) → saves the normalized array to a binary .npy file.
 
-- (X - mean) / std_dev → normalizes each element by subtracting the mean and dividing by the standard deviation.
-
-- np.save('X_normalized.npy', X_normalized) → saves the normalized array to a binary .npy file.
-
-*Output:*
+##### *Output:*
 
 
 <img width="573" height="271" alt="image" src="https://github.com/user-attachments/assets/dd3a7be2-9fab-442f-a5bd-56f56c095a35" />
