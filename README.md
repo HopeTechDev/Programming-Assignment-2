@@ -42,6 +42,7 @@ The problems solved include:
 ### 01 🧪 Normalization Problem
 
 ```python
+
 import numpy as np
 
 X = np.random.rand(5, 5)  # Create a 5x5 array of random float values between 0 and 1
@@ -82,8 +83,9 @@ print("\nNormalized Array:\n", X_normalized)
 Output:
 
 
- <img width="73" height="48" alt="image" src="https://github.com/user-attachments/assets/9204a8ac-84ff-416c-8c0e-c1b647d3e8c5" />
- 
+<img width="573" height="271" alt="image" src="https://github.com/user-attachments/assets/dd3a7be2-9fab-442f-a5bd-56f56c095a35" />
+
+ ---
 
  ### 02 ➗ Division by 3 Problem
 
@@ -109,7 +111,11 @@ print("\nElements Divisible by 3:\n", divisible)
 - X[X % 3 == 0] → filters and extracts only those elements.
 
 - np.save("div_by_3.npy", divisible) → saves the filtered numbers into a .npy file.
+  
 
 Output:
+
 <img width="651" height="335" alt="image" src="https://github.com/user-attachments/assets/7a58b673-1cea-404c-9a83-2f52c1576b5c" />
+
+---
 
