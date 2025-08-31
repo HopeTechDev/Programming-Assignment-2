@@ -68,9 +68,11 @@ print("\nNormalized Array:\n", X_normalized)
 - The mean and standard deviation of the array are computed.
 
 - Normalization is done with the formula:
+  
   <img width="73" height="48" alt="image" src="https://github.com/user-attachments/assets/9204a8ac-84ff-416c-8c0e-c1b647d3e8c5" />
 	
 - The resulting normalized array is saved to X_normalized.npy.
 
 Sample Output: 
+
 <img width="582" height="280" alt="image" src="https://github.com/user-attachments/assets/795492b6-f901-45a3-99f5-5072a5281658" />
