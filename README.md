@@ -132,13 +132,15 @@ print("\nElements Divisible by 3:\n", divisible)
   - Wrote and tested core logic for the normalization and division‑by‑3 tasks  
   - Confirmed basic output with print statements
 
-- **v1.1** – Clean-up and tweaks  
-  - Renamed variables for clarity (e.g., `std_dev`)  
+- **v1.1** – Rechecking 
+  - Renamed variables 
   - Improved print formatting and verified `.npy` file saving/loading
+  - Rechecked the flow of my python codes in Jupyter notebook
 
 - **v1.2** – Final polish  
   - Added concise explanations for each code step  
-  - Clean Markdown layout for easy readability
+  - Clean markdown layout for easy readability
+  - Fixed the overall format of my Readme to make it easy and pleasant to read
  
 ---
 
