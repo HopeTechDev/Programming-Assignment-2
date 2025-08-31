@@ -103,13 +103,13 @@ print("\nElements Divisible by 3:\n", divisible)
 
 ```
 
-##### - Creates a 10×10 array of squared numbers from 1² to 100² using (np.arange(1, 101).reshape(10, 10)) ** 2.
+- Creates a 10×10 array of squared numbers from 1² to 100² using (np.arange(1, 101).reshape(10, 10)) ** 2.
 
-##### - X % 3 == 0 → creates a Boolean mask for numbers divisible by 3.
+- X % 3 == 0 → creates a Boolean mask for numbers divisible by 3.
 
-##### - X[X % 3 == 0] → filters and extracts only those elements.
+- X[X % 3 == 0] → filters and extracts only those elements.
 
-##### - np.save("div_by_3.npy", divisible) → saves the filtered numbers into a .npy file.
+- np.save("div_by_3.npy", divisible) → saves the filtered numbers into a .npy file.
   
 ###### *Output:*
 
