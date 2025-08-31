@@ -80,7 +80,7 @@ print("\nNormalized Array:\n", X_normalized)
 
 - np.save('X_normalized.npy', X_normalized) → saves the normalized array to a binary .npy file.
 
-Output:
+*Output:*
 
 
 <img width="573" height="271" alt="image" src="https://github.com/user-attachments/assets/dd3a7be2-9fab-442f-a5bd-56f56c095a35" />
@@ -113,9 +113,31 @@ print("\nElements Divisible by 3:\n", divisible)
 - np.save("div_by_3.npy", divisible) → saves the filtered numbers into a .npy file.
   
 
-Output:
+*Output:*
 
 <img width="651" height="335" alt="image" src="https://github.com/user-attachments/assets/7a58b673-1cea-404c-9a83-2f52c1576b5c" />
 
 ---
+
+##### *- 🌱 "Don’t let yesterday take up too much of today."*
+
+---
+
+
+### 📝 Version History
+
+- **v1.0** – Initial draft  
+  - Wrote and tested core logic for the normalization and division‑by‑3 tasks  
+  - Confirmed basic output with print statements
+
+- **v1.1** – Clean-up and tweaks  
+  - Renamed variables for clarity (e.g., `std_dev`)  
+  - Improved print formatting and verified `.npy` file saving/loading
+
+- **v1.2** – Final polish  
+  - Added concise explanations for each code step  
+  - Clean Markdown layout for easy readability
+ 
+---
+
 
