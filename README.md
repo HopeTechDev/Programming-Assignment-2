@@ -79,7 +79,7 @@ print("\nNormalized Array:\n", X_normalized)
 
 ##### - np.save('X_normalized.npy', X_normalized) → saves the normalized array to a binary .npy file.
 
-##### *Output:*
+###### *Output:*
 
 
 <img width="573" height="271" alt="image" src="https://github.com/user-attachments/assets/dd3a7be2-9fab-442f-a5bd-56f56c095a35" />
