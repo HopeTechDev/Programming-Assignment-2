@@ -126,7 +126,7 @@ print("\nElements Divisible by 3:\n", divisible)
 
 ---
 
-### 📝 Version History
+### 📝 Commitments
 
 - **v1.0** – Initial draft  
   - Wrote and tested core logic for the normalization and division‑by‑3 tasks  
