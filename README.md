@@ -122,7 +122,7 @@ print("\nElements Divisible by 3:\n", divisible)
 
 ---
 
-##### *- 🌱 "Don’t let yesterday take up too much of today."*
+##### *- 🌱 “Your dreams don’t have an expiration date. Take a deep breath and try again.”*
 
 ---
 
